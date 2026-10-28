@@ -1,0 +1,9 @@
+# Simulation outputs
+*.vcd
+*.fst
+*.lxt
+*.out
+*.vvp
+
+# Compiled binaries
+*.o
